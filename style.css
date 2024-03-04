@@ -40,8 +40,9 @@ html, body {
 
 /*// ELEMENTS TO ANIMATE //*/
 .mario {
-  animation-duration: 3s;
-  animation-fill-mode: both;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  /* animation-fill-mode: both; */
   animation-name: drive;
   position: absolute;
   top: -40px;
@@ -51,9 +52,9 @@ html, body {
 /*// KEYFRAMES //*/
 @keyframes drive {
   from {
-    transform: translateX(0);
+    transform: translateX(-200px);
   }
   to {
-    transform: translateX(500px);
+    transform: translateX(120vw);
   }
 }/*# sourceMappingURL=style.css.map */
