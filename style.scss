@@ -5,7 +5,24 @@ html, body{
     width:100%;
     overflow: hidden;
     margin: 0;
-  }
+}
+
+.cloud {
+    position: absolute;
+
+    &:nth-child(1) {
+        animation: wind 80s linear infinite reverse;
+        opacity: 0.5;
+        top: 90px;
+        width: 200px;
+    }
+
+    &:nth-child(2) {
+        animation: wind 50s linear infinite reverse;
+        top: 0;
+        width: 300px;
+    }
+}
   
 .grass, .sky, .road{
     position: relative;
@@ -40,21 +57,40 @@ html, body{
 }
   
 /*// ELEMENTS TO ANIMATE //*/
+
+.luigi {
+    // animation-direction: alternate;
+    animation-duration: 5s;
+    animation-fill-mode: both;
+    animation-iteration-count: infinite;
+    animation-name: drive;
+    animation-timing-function: linear;
+    left: 0;
+    position: absolute;
+    top: 20px;
+}
   
 .mario {
-    animation-duration: 3s;
+    animation-duration: 4s;
     animation-fill-mode: both;
+    animation-iteration-count: infinite;
     animation-name: drive;
+    animation-timing-function: linear;
     position: absolute;
     top: -40px;
     left: 0;
 }
   
 /*// KEYFRAMES //*/
+
+@keyframes wind {
+    from { left: -0px; }
+    to { left: 100%; }
+}
   
 @keyframes drive {
     from { transform: translateX(-200px); }
-    to{ transform: translateX(1000px); }
+    to{ transform: translateX(150vw); }
 }
   
   
