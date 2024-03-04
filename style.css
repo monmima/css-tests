@@ -41,6 +41,7 @@ html, body {
 /*// ELEMENTS TO ANIMATE //*/
 .mario {
   animation-duration: 3s;
+  animation-fill-mode: both;
   animation-name: drive;
   position: absolute;
   top: -40px;
