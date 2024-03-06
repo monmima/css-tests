@@ -71,11 +71,8 @@ html, body{
 }
   
 .mario {
-    animation-duration: 4s;
-    animation-fill-mode: both;
-    animation-iteration-count: infinite;
-    animation-name: drive;
-    animation-timing-function: linear;
+    animation: drive 4s both infinite linear,
+               jump 0.3s 1.2s ease;
     position: absolute;
     top: -40px;
     left: 0;
@@ -93,7 +90,11 @@ html, body{
     to{ transform: translateX(150vw); }
 }
   
-  
+@keyframes jump {
+    0% { top: -40px };
+    50% { top: -100px };
+    100% { top: -40px };
+}
   
   
   
