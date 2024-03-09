@@ -1,14 +1,13 @@
-# CSS animation tutorial by the Net Ninja
+# Me following along CSS animation tutorials
 
-CSS tutorial on animations by the Net Ninja
+4.30
 
-https://www.youtube.com/watch?v=PjR97QzOrJM&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5&index=5
+## CSS tutorial on animations by the Net Ninja (folders 0001 to 0004)
 
-4.15
+- [YouTube](https://www.youtube.com/watch?v=PjR97QzOrJM&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5&index=5)
+- [Github](https://github.com/iamshaunjp/css-animations-playlist)
 
-https://github.com/iamshaunjp/css-animations-playlist
-
-___
+##
 
 
 
