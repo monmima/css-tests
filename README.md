@@ -6,7 +6,7 @@
 
 | Name | Author | Link to the final result |
 |----|----|----|
-| Mario Kart animation | [The Net Ninja](https://www.youtube.com/watch?v=PjR97QzOrJM&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5&index=1) | /0001-mario |
+| Mario Kart animation | [The Net Ninja](https://www.youtube.com/watch?v=PjR97QzOrJM&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5&index=1) | [/0001-mario](/css-tests/0001-mario) |
 | Pop-up animation | [The Net Ninja](https://www.youtube.com/watch?v=PjR97QzOrJM&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5&index=1) | /0002-pop-up |
 | Shopping cart animation | [The Net Ninja](https://www.youtube.com/watch?v=PjR97QzOrJM&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5&index=1) | /0003-shopping-basket |
 | Rotating card animation | [The Net Ninja](https://www.youtube.com/watch?v=PjR97QzOrJM&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5&index=1) | /0004-rotate-examples |
