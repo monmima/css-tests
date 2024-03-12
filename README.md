@@ -1,6 +1,8 @@
 # Me following along CSS animation tutorials
 
-7.00
+7.15
+
+18.09
 
 ## List of tutorials I followed
 

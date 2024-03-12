@@ -63,6 +63,7 @@ body {
 }
 
 .handle1 {
+    animation: 6s move infinite;
     background-color: white;
     height: 5px;
     position: relative;
@@ -170,6 +171,7 @@ body {
 }
 
 .toastl1 {
+    animation: 6s toastt infinite;
     background-color: #cc8800;
     bottom: 255px;
     border-radius: 15px;
@@ -177,6 +179,7 @@ body {
     left: 24px;
     position: relative;
     width: 59px;
+    z-index: -1;
 }
 
 .toastl2 {
@@ -189,3 +192,76 @@ body {
     z-index: -1;
 }
 
+.toastl3 {
+    animation: 6s toastt infinite;
+    background-color: #cc8800;
+    bottom: 275px;
+    border-radius: 15px;
+    height: 15px;
+    right: 2px;
+    position: relative;
+    width: 59px;
+    z-index: -1;
+}
+
+.toastl4 {
+    background-color: #cc8800;
+    height: 45px;
+    left: 2.8px;
+    position: relative;
+    top: 5px;
+    width: 52px;
+}
+
+.toastu1 {
+    background-color: #ffd480;
+    border-radius: 15px;
+    bottom: 41px;
+    height: 8px;
+    left: 3px;
+    position: relative;
+    width: 51px;
+}
+
+.toastu2 {
+    background-color: #ffd480;
+    bottom: 41px;
+    height: 35px;
+    left: 7.3px;
+    position: relative;
+    width: 42px;
+}
+
+.toastu3 {
+    background-color: #ffd480;
+    border-radius: 15px;
+    bottom: 41px;
+    height: 8px;
+    left: 3px;
+    position: relative;
+    width: 51px;
+}
+
+.toastu4 {
+    background-color: #ffd480;
+    bottom: 41px;
+    height: 35px;
+    left: 7.4px;
+    position: relative;
+    width: 42px;
+}
+
+@keyframes move {
+    50% {
+        transform: translateY(31px);
+    }
+}
+
+@keyframes toastt {
+    50% {
+        transform: translateY(27px);
+    }
+    87% {
+        transform: translateY(-26px);
+    }
+}
