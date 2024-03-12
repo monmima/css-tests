@@ -1,0 +1,191 @@
+body {
+    background-color: #ffe066;
+    margin: 0;
+    padding: 0;
+}
+
+.base1 {
+    background-color: #666666;
+    border-radius: 15px;
+    bottom: 102.1px;
+    height: 10px;
+    position: relative;
+    right: 33px;
+    width: 128px;
+}
+
+.base2 {
+    background-color: #333333;
+    border-radius: 15px;
+    bottom: 93px;
+    height: 10px;
+    left: 90px;
+    position: relative;
+    width: 30px;
+}
+
+.b1, .b2 {
+    background-color: #737373;
+    border-radius: 50%;
+    height: 12px;
+    position: relative;
+    width: 12px;
+}
+
+.b1 {
+    left: 50px;
+    top: 20px;
+}
+
+.b2 {
+    left: 50px;
+    top: 25px;
+}
+
+.b3 {
+    background-color: #5abff2;
+    border: 2px solid white;
+    border-radius: 50%;
+    height: 16px;
+    left: 46.6px;
+    position: relative;
+    top: 30px;
+    width: 16px;
+}
+
+.cover {
+    background-color: #99ddff;
+    border-radius: 20px 25px 0 0;
+    position: relative;
+    height: 90px;
+    right: 30px;
+    width: 120px;
+}
+
+.handle1 {
+    background-color: white;
+    height: 5px;
+    position: relative;
+    top: 1.7px;
+    width: 20px;
+}
+
+.handle2 {
+    background-color: #666666;
+    border-radius: 5px;
+    bottom: 2px;
+    height: 10px;
+    left: 7.5px;
+    width: 18px;
+    position: relative;
+}
+
+.handle3 {
+    background-color: #333333;
+    border-radius: 50%;
+    bottom: 12px;
+    height: 9.5px;
+    left: 16.5px;
+    position: relative;
+    width: 8px;
+}
+
+.l1, .l2, .l3, .l4 {
+    background-color: #333333;
+    height: 7px;
+    position: relative;
+    width: 8px;
+}
+
+.l1 {
+    bottom: 103px;
+    right: 20px;
+}
+
+.l2 {
+    bottom: 110px;
+    left: 10px;
+}
+
+.l3 {
+    bottom: 117px;
+    left: 80px;
+}
+
+.l4 {
+    bottom: 124px;
+    left: 105px;
+}
+
+.mycanvas {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 510px;
+    margin: auto;
+    position: absolute;
+    width: 350px;
+}
+
+.shine {
+    background-color: #e6f7ff;
+    border-radius: 50%;
+    bottom: 35px;
+    height: 24px;
+    left: 7px;
+    width: 15px;
+    position: relative;
+    transform: rotate(30deg);
+}
+
+.slot1 {
+    background-color: #666666;
+    border-radius: 15px;
+    bottom: 65px;
+    height: 43px;
+    left: 101px;
+    position: relative;
+    width: 8px;
+}
+
+.slot2 {
+    background-color: #333333;
+    border-radius: 15px;
+    bottom: 107px;
+    height: 41px;
+    left: 101px;
+    position: relative;
+    width: 5px;
+}
+
+.toaster {
+    background-color: #5abff2;
+    border-radius: 20px 25px 0 0;
+    height: 90px;
+    left: 125px;
+    position: relative;
+    top: 210px;
+    width: 120px;
+}
+
+.toastl1 {
+    background-color: #cc8800;
+    bottom: 255px;
+    border-radius: 15px;
+    height: 15px;
+    left: 24px;
+    position: relative;
+    width: 59px;
+}
+
+.toastl2 {
+    background-color: #cc8800;
+    height: 45px;
+    left: 2.8px;
+    position: relative;
+    top: 5px;
+    width: 52px;
+    z-index: -1;
+}
+
