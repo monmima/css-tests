@@ -1,8 +1,6 @@
 # Me following along CSS animation tutorials
 
-7.15
-
-18.09
+8.30
 
 ## List of tutorials I followed
 
@@ -15,7 +13,4 @@
 | Sprite Sheet Animation With CSS | [Coding Artist](https://www.youtube.com/watch?v=d6yvhI83hFk) | [/0005-spritesheet](/css-tests/0005-spritesheet) |
 | Cat illustration CSS | [Coding Artist](https://www.youtube.com/watch?v=W0uw0zGRwoQ&pp=ygUUY2F0IGlsbHVzdHJhdGlvbiBjc3M%3D) | [/0006-cat-illustration-css](/css-tests/0006-cat-illustration-css) |
 | CSS Toaster Animation | [Coding Artist](https://www.youtube.com/watch?v=W0uw0zGRwoQ&pp=ygUUY2F0IGlsbHVzdHJhdGlvbiBjc3M%3D) | [/0007-toaster-animation](/css-tests/0007-toaster-animation) |
-
-
-https://www.youtube.com/watch?v=G0HtHr46Awg&pp=ygUZdG9hc3RlciBjc3MgY29kaW5nIGFydGlzdA%3D%3D
-
+| Power of Light v0.2 | [Online Tutorials](https://www.youtube.com/watch?v=SHRcgP_IZHI&pp=ygUXcG93ZXIgb2YgbGlnaHQgaHRtbCBjc3M%3D) | [/0008-power-of-light](/css-tests/0008-power-of-light) |

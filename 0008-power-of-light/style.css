@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    align-items: center;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    position: relative;
+}
+
+section h2 {
+    color: #fff;
+    cursor: default;
+    font-size: 15em;
+}
+
+.light {
+    background: radial-gradient(circle at var(--x) var(--y), transparent 10%, rgba(0, 0, 0, 0.95) 20%);
+    position: fixed;
+    height: 100%;
+    left: 0;
+    pointer-events: none;
+    top: 0;
+    width: 100%;
+}
