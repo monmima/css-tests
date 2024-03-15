@@ -8,7 +8,64 @@
 
 body {
     background-color: #ffde2a;
+}
 
+.back {
+    background-color: #ea1616;
+    border: 10px solid black;
+    border-radius: 20px 0 0 20px;
+    border-right: none;
+    height: 120px;
+    left: -45px;
+    position: absolute;
+    top: 65px;
+    width: 35px;
+}
+
+.back:before {
+    background-color: #840931;
+    border-radius: 12px 0 0;
+    bottom: 0.5px;
+    content: "";
+    height: 78px;
+    left: -1px;
+    position: absolute;
+    width: 26px;
+}
+
+.goggles {
+    background-color: #225381;
+    border: 10px solid black;
+    border-radius: 25px 50px 30px 30px;
+    height: 75px;
+    left: 40px;
+    position: absolute;
+    top: 30px;
+    width: 110px;
+    z-index: 2;
+}
+
+.goggles:after {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    content: "";
+    height: 22%;
+    left: 39px;
+    position: absolute;
+    top: 5px;
+    transform: rotate(6deg);
+    width: 45%;
+}
+
+.goggles:before {
+    background-color: #72d4ec;
+    border-radius: 0 28px 3px 30px;
+    content: "";
+    height: 65%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 85%;
 }
 
 .legs {
@@ -22,6 +79,18 @@ body {
     left: -10px;
     position: absolute;
     width: 60px;
+    z-index: 1;
+}
+
+.legs:after {
+    background-color: #000000;
+    border-radius: 0 0 10px 0;
+    content: "";
+    height: 10px;
+    left: 40px;
+    position: absolute;
+    top: -10px;
+    width: 55px;
 }
 
 .legs::before {
@@ -62,4 +131,15 @@ body {
     height: 85%;
     top: 2.5px;
     width: 92%;
+}
+
+.shadow {
+    background-color: rgba(153, 130, 0, 0.2);
+    border-radius: 50%;
+    bottom: -60px;
+    height: 40px;
+    position: absolute;
+    right: -40px;
+    width: 210px;
+    z-index: 0;
 }

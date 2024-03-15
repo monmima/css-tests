@@ -1,8 +1,6 @@
 # Me following along CSS animation tutorials
 
-9.00
-
-2.00
+9.15
 
 ## Ideas
 
