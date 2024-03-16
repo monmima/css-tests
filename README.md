@@ -1,10 +1,11 @@
 # Me following along CSS animation tutorials
 
-9.15
+10.00
 
 ## Ideas
 
 - CSS art
+- CSS clip
 - CSS paths
 - Perspective
 - CSS functions
@@ -24,3 +25,4 @@
 | CSS Toaster Animation | [Coding Artist](https://www.youtube.com/watch?v=W0uw0zGRwoQ&pp=ygUUY2F0IGlsbHVzdHJhdGlvbiBjc3M%3D) | [/0007-toaster-animation](/css-tests/0007-toaster-animation) |
 | Power of Light v0.2 | [Online Tutorials](https://www.youtube.com/watch?v=SHRcgP_IZHI&pp=ygUXcG93ZXIgb2YgbGlnaHQgaHRtbCBjc3M%3D) | [/0008-power-of-light](/css-tests/0008-power-of-light) |
 | Among Us Speed Art With CSS | [Coding Artist](https://www.youtube.com/watch?v=JDI0zz2Waqw&list=PLNCevxogE3fjFTYBst-r1gvlCMsUSzjEU&index=1) | [/0009-among-us-css-only](/css-tests/0009-among-us-css-only) |
+| Pure CSS3 Water Wave Text Animation Effects Using CSS Clip-path | [Online Tutorials](https://www.youtube.com/watch?v=Tf6qm5JMUXQ) | [/0010-css-water-wave](/css-tests/0010-css-water-wave) |
