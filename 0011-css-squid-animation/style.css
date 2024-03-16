@@ -1,3 +1,44 @@
-p {
-  color: pink;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ffbdbd;
+}
+
+.container {
+  border: 1px solid black;
+  height: 31.25em;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 31.25em;
+}
+
+.squid {
+  height: 18.75em;
+  width: 18.75em;
+  background: linear-gradient(#f01c8a, #f53e2f);
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  animation: swim 3s infinite;
+}
+
+.squid::before {
+  background-color: #cd0856;
+  position: absolute;
+  content: "";
+  height: 2.5em;
+  width: 2.5em;
+  border-radius: 50%;
+  top: 11.25em;
+  left: 3.75em;
+  box-shadow: 8.75em 0 #cd0856;
 }/*# sourceMappingURL=style.css.map */

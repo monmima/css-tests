@@ -1,16 +1,6 @@
 # Me following along CSS animation tutorials
 
-10.00
-
-## Ideas
-
-- CSS art
-- CSS clip
-- CSS paths
-- Perspective
-- CSS functions
-- CSS animations
-- CSS-only games
+10.15
 
 ## List of tutorials I followed
 
@@ -27,3 +17,13 @@
 | Among Us Speed Art With CSS | [Coding Artist](https://www.youtube.com/watch?v=JDI0zz2Waqw&list=PLNCevxogE3fjFTYBst-r1gvlCMsUSzjEU&index=1) | [/0009-among-us-css-only](/css-tests/0009-among-us-css-only) |
 | Pure CSS3 Water Wave Text Animation Effects Using CSS Clip-path | [Online Tutorials](https://www.youtube.com/watch?v=Tf6qm5JMUXQ) | [/0010-css-water-wave](/css-tests/0010-css-water-wave) |
 | CSS squid animation | [Coding Artist](https://www.youtube.com/watch?v=rVpV3LFvbro&pp=ygUVb2N0b3B1cyBjb2RpbmcgYXJ0aXN0) | [/0011-css-squid-animation](/css-tests/0011-css-squid-animation) |
+
+## Ideas for CSS tutorials to try out
+
+- CSS art
+- CSS clip
+- CSS paths
+- Perspective
+- CSS functions
+- CSS animations
+- CSS-only games
