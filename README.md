@@ -1,6 +1,6 @@
-# Me following along CSS animation tutorials
+# Me following along CSS tutorials
 
-10.15
+10.45
 
 ## List of tutorials I followed
 
@@ -16,7 +16,7 @@
 | Power of Light v0.2 | [Online Tutorials](https://www.youtube.com/watch?v=SHRcgP_IZHI&pp=ygUXcG93ZXIgb2YgbGlnaHQgaHRtbCBjc3M%3D) | [/0008-power-of-light](/css-tests/0008-power-of-light) |
 | Among Us Speed Art With CSS | [Coding Artist](https://www.youtube.com/watch?v=JDI0zz2Waqw&list=PLNCevxogE3fjFTYBst-r1gvlCMsUSzjEU&index=1) | [/0009-among-us-css-only](/css-tests/0009-among-us-css-only) |
 | Pure CSS3 Water Wave Text Animation Effects Using CSS Clip-path | [Online Tutorials](https://www.youtube.com/watch?v=Tf6qm5JMUXQ) | [/0010-css-water-wave](/css-tests/0010-css-water-wave) |
-| CSS squid animation | [Coding Artist](https://www.youtube.com/watch?v=rVpV3LFvbro&pp=ygUVb2N0b3B1cyBjb2RpbmcgYXJ0aXN0) | [/0011-css-squid-animation](/css-tests/0011-css-squid-animation) |
+| CSS squid animation | [Coding Artist](https://www.youtube.com/watch?v=rVpV3LFvbro&pp=ygUVb2N0b3B1cyBjb2RpbmcgYXJ0aXN0) | [/0011-css-squid-animation](/css-tests/0011-css-squid-animation)  
 
 ## Ideas for CSS tutorials to try out
 
@@ -27,3 +27,4 @@
 - CSS functions
 - CSS animations
 - CSS-only games
+- CSS SVG colors
