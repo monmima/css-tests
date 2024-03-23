@@ -1,10 +1,10 @@
 # Me following along CSS tutorials
 
-13.00
+14
 
 ---
 
-## List of tutorials I followed
+## List of tutorials I followed and sites I recreated
 
 | Name | Author | Link to the final result |
 |----|----|----|
@@ -20,6 +20,8 @@
 | Pure CSS3 Water Wave Text Animation Effects Using CSS Clip-path | [Online Tutorials](https://www.youtube.com/watch?v=Tf6qm5JMUXQ) | [/0010-css-water-wave](/css-tests/0010-css-water-wave) |
 | CSS squid animation | [Coding Artist](https://www.youtube.com/watch?v=rVpV3LFvbro&pp=ygUVb2N0b3B1cyBjb2RpbmcgYXJ0aXN0) | [/0011-css-squid-animation](/css-tests/0011-css-squid-animation) |
 | Easy waves, angles, & other creative shapes with CSS | [Kevin Powell](https://www.youtube.com/watch?v=hWGgw1K-i8Y) | [/0012-css-shapes](/css-tests/0012-css-shapes) |
+| Working Fan using only HTML and CSS | [Divinector](https://www.youtube.com/watch?v=gxlCmrkiYSg&t=16s) | [/0013-fan-animation](/css-tests/0013-fan-animation) |
+| Lego Web site | [Lego](https://www.lego.com/en-ca) | [/0014-lego-site](/css-tests/0014-lego-site) |
 
 ## Ideas for CSS tutorials to try out
 
