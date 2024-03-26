@@ -1,6 +1,8 @@
 # Me following along CSS tutorials
 
-14
+14.30
+
+20.00
 
 ---
 

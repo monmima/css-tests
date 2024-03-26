@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@mixin center() {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: pink;
+}
+
+header {
+
+
+
+
+
+
+    .header__nav {
+        background-color: #FFD502;
+
+        img {
+            aspect-ratio: 1 / 1;
+            height: 55px;
+        }
+    }
+    
+    .header__pre-nav {
+        display: flex;
+        justify-content: space-between;
+
+        background-color: #F8F8F8;
+        margin: 0.9375rem 0;
+
+        .header__pre-nav__play-zone {
+            background-color: rgb(171, 217, 255);
+            margin: 0 0 0 28px;
+            padding: 0px 0.625rem;
+            @include center;
+
+            .header__pre-nav__play-zone__arrow {
+                background-color: pink;
+                @include center;
+
+                svg {
+                    height: 16px;
+                    transform: rotate(180deg);
+                    width: 15px;
+                }
+            }
+        }
+    }
+
+
+}
+
+main {
+    .main__hero {
+        background-color: #FEF3E2;
+    }
+}
+
